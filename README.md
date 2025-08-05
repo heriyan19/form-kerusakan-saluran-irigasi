@@ -1,8 +1,8 @@
-# form-kerusakan-irigasi
+# form-kerusakan-saluran-irigasi
 
 <html>
 <head>
-  <title>Form Kerusakan Irigasi</title>
+  <title>Laporan Kerusakan Irigasi</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
