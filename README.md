@@ -1,13 +1,11 @@
 # form-kerusakan-irigasi
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Form Kerusakan Irigasi</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <h2>Laporan Kerusakan Saluran Irigasi</h2>
 
   <form id="form">
     <label>Nama Pelapor:</label><br>
